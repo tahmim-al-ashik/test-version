@@ -1,0 +1,17 @@
+1. Git Pull
+2. Composer Update
+3. change copy env to env
+4. php artisan key:generate
+5. npm run dev
+6. php artisan migrate
+7. php artisan db:seed
+8. enter login for admin 
+
+yourlocalhost.com/admin/login
+admin@admin.com
+12345678
+
+9. enter login for user
+yourlocalhost.com/login
+user@user.com
+12345678
